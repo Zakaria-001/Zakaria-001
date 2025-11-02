@@ -1,4 +1,4 @@
-## Hi👋, Souleymane here🤓  
+## Hi👋, Zakaria here🤓  
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning ML/AI
 - 🔭 I’m currently working on everything fullstack 😄
